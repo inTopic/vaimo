@@ -1,0 +1,8 @@
+<config>
+    <modules>
+        <Vaimo_Test>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Vaimo_Test>
+    </modules>
+</config>
